@@ -1,9 +1,9 @@
 
 [
   {
-    "repository": "TV-LP51-Devices/device_samsung_klte-common",
+    "repository": "CyanogenMod/device_samsung_klte-common",
     "target_path": "device/samsung/klte-common",
-    "branch":     "lp5.1"
+    "branch":     "cm-12.1"
   },
   {
     "repository":  "CyanogenMod/android_device_samsung_qcom-common",
